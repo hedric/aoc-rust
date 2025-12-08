@@ -1,5 +1,7 @@
 [workspace]
 members = [
     "aoclib",
+    "aoc_runner",
     "y2025",
 ]
+resolver = "3"

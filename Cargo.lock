@@ -3,6 +3,14 @@
 version = 4
 
 [[package]]
+name = "aoc_runner"
+version = "0.1.0"
+dependencies = [
+ "aoclib",
+ "y2025",
+]
+
+[[package]]
 name = "aoclib"
 version = "0.1.0"
 
